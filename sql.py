@@ -9,7 +9,7 @@ class DatabaseConfig:
         print("Connecting to database...")
         print(f"Host: {self.host}")
         print(f"User: {self.username}")
-        print(f"Password: {self.password}")
+        print("Password: [REDACTED]")
 
 def main():
     db = DatabaseConfig()
