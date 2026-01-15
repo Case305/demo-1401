@@ -28,3 +28,6 @@ This is the 2nd line
 | Carol  | Manager     | UK       |
 | Derrek | Analyst     | Japan    |
 
+[7ed3fff](../../commit/7ed3fff)
+
+[Issue#7](../../issues/7)
